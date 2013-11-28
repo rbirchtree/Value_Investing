@@ -1,0 +1,2 @@
+***
+This program grabs six financial metrics of public traded companies that are releavent for value investing and puts them into a csv file for further analysis. Further updates will happen in the future.
